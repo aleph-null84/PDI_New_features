@@ -7,6 +7,6 @@ This project contains:
 
 * yuriy.release.ExcelFunctions – Class for work with Excel files
 
-	methods:
+	Methods:
 	
 	* excelRemoveRows – Removes rows from workbook. Returns count removed rows.
