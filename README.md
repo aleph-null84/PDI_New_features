@@ -5,8 +5,8 @@ Some useful Java classes for Pentaho Data Integration (Kettle 5.0.1)
 
 This project contains:
 
-* yuriy.release.ExcelFunctions -- Class for work with Excel files
+* yuriy.release.ExcelFunctions – Class for work with Excel files
 
 	methods:
 	
-	* excelRemoveRows -- Removes rows from workbook. Returns count removed rows.
+	* excelRemoveRows – Removes rows from workbook. Returns count removed rows.
