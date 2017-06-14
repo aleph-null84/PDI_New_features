@@ -1,5 +1,7 @@
-# PDI_New_features
+# PDI New features
 Some useful Java classes for Pentaho Data Integration (Kettle 5.0.1)
+
+### Description
 
 This project contains:
 
