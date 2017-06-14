@@ -9,4 +9,4 @@ This project contains:
 
 	methods:
 	
-	* excelRemoveRows -- Copy workbook with removed rows. Returns count removed rows.
+	* excelRemoveRows -- Removes rows from workbook. Returns count removed rows.
