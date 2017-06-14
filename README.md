@@ -7,4 +7,4 @@ This project contains:
 
 	methods:
 	
-	*excelRemoveRows -- Copy workbook inputFile to outputFile with removed rowCount rows starting from row rowIndex. Returns count removed rows.
+	* excelRemoveRows -- Copy workbook inputFile to outputFile with removed rowCount rows starting from row rowIndex. Returns count removed rows.
