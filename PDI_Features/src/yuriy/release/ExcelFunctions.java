@@ -19,6 +19,8 @@ public abstract class ExcelFunctions {
 	 * 
 	 * Copy workbook inputFile to outputFile with removed rowCount rows starting from row rowIndex.
 	 * 
+	 * @author Yuriy (aleph null)
+	 * 
 	 * @param inputFile    the system-dependent input file name
 	 * @param outputFile   the system-dependent output file name
 	 * @param excel2007    Excel format indicator; true to Excel 2007 format, false to Excel 2003 format
