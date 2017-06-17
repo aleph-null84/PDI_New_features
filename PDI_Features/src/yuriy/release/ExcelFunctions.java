@@ -16,7 +16,6 @@ import org.apache.poi.ss.usermodel.Sheet;
 public abstract class ExcelFunctions {
 	
 	/**
-	 * 
 	 * Copy workbook inputFile to outputFile with removed rowCount rows starting from row rowIndex.
 	 * 
 	 * @param inputFile    the system-dependent input file name
