@@ -10,7 +10,7 @@ public class ExcelRemoveRows {
 		File file = new File("");
 		String filePath = file.getAbsolutePath();
 		
-		System.out.println("Excel 2003");
+		System.out.println("Excel 2003 test");
 		
 		filePath += File.separator + "output" + File.separator; 
 		String fileInput = filePath + "testFile.xls";
@@ -19,7 +19,7 @@ public class ExcelRemoveRows {
 		int i = ExcelFunctions.excelRemoveRows(fileInput, fileOutput, false, 0, 5, 4);
 		System.out.println("Rows deleted: " + i);
 		
-		System.out.println("Excel 2007");
+		System.out.println("Excel 2007 test");
 		
 		filePath = file.getAbsolutePath();
 		filePath += File.separator + "output" + File.separator; 
